@@ -1,6 +1,9 @@
 # ElviraVagrant
 
-Requisitos previos: Vagrant y VirtualBox
+Requisitos previos:
+```
+Vagrant y VirtualBox
+```
 
 Para desplegar la maquina virtual usar el comando:
 ```
