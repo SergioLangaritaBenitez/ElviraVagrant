@@ -20,7 +20,7 @@ cd ./ElviraWeb
 ```
 instalar y ejecutar react:
 ```
-npm install
+sudo npm install
 npm start
 ```
 Instalar una extension para habilitar el CORS en el navegador:
