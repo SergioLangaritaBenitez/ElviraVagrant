@@ -25,7 +25,7 @@ Vagrant.configure("2") do |config|
   	sudo apt-get install git -y
   	git clone https://github.com/SergioLangaritaBenitez/ElviraWebBackEnd.git
   	cp ElviraWebBackEnd/target/ElviraWebs-1.war ./ElviraWebs.war
-  	http://localhost:8080/ElviraWebs-1/rest/elvira/graph
+  	#http://localhost:8080/ElviraWebs-1/rest/elvira/graph
   	git clone https://github.com/SergioLangaritaBenitez/ElviraWeb.git
   	wget https://s3-eu-west-1.amazonaws.com/payara.fish/Payara+Downloads/5.194/payara-5.194.zip
   	unzip payara-5.194.zip
