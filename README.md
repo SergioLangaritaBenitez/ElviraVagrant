@@ -9,7 +9,7 @@ Para desplegar la maquina virtual usar el comando:
 ```
 vagrant up
 ```
-contraseña para entrar en la maquina virtual:
+Contraseña para entrar en la maquina virtual:
 ```
 vagrant
 ```
